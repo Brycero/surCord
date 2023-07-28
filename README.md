@@ -1,3 +1,7 @@
+> ⚠️ A fork of surCord for my own personal testing purposes. May not be maintained. Original readme is as follows:
+
+<hr>
+
 <h1 align="center">surCord</h1>
 <p align="center">Hello. Again. </p>
 
