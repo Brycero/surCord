@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - trynottobreak
+      - dev
 
 jobs:
   build_css:
