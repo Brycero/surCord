@@ -29,6 +29,9 @@
   width: var(--server-size);
   height: var(--server-size);
 }
+#app-mount .guilds-2JjMmn .svg-2ifYOU {
+  overflow: visible;
+}
 #app-mount .guilds-2JjMmN [role=group] {
   height: auto !important;
 }
