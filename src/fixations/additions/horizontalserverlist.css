@@ -57,6 +57,7 @@
 }
 #app-mount .sidebar-1tnWFu {
   border-radius: 0;
+  margin-left: 2px;
 }
 #app-mount [class*=unreadMentionsIndicator] {
   width: var(--server-size);
