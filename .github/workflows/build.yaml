@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - dev
+      - hss
 
 jobs:
   build_css:
