@@ -1,9 +1,18 @@
-> ⚠️ A fork of surCord for my own personal testing purposes. May not be maintained. Original readme is as follows:
-
-<hr>
-
 <h1 align="center">surCord</h1>
-<p align="center">Hello. Again. </p>
+<h3 align="center">Brycero fork</h3>
+
+<p align="center">A fork of surCord with a darker theme, orange accent color and includes Horizontal Server Switcher.</p>
+
+## Usage
+Vencord and BetterDiscord users can paste the raw file link `https://git.brycero.co/surCord/surCord.theme.css` into their themes settings. Alternatively, you can copy the contents of the `surCord.theme.css` file and paste it into your quick CSS settings.
+
+## Notes
+* Intended for use in the Windows client through Vencord.
+* Not tested on any other Discord client mods, your mileage will vary.
+* Not tested on macOS. Feel free to contribute any necessary changes.
+* No Vencord web support as of yet. I plan to update the `surCord.user.css` file with the necessary changes in the near future.
+
+<b>The original surCord readme is as follows:</b>
 
 # ![screenshot](https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/surCord/main/assets/Untitledpreview.png)
 
@@ -90,5 +99,3 @@ to use **San Fransisco Display Bold**. *(Or specify your own weight, 100-900; bo
 ## Devs, Contributors, and other Creditors 
 
 See [here.](https://github.com/SlippingGittys-Discord-Themes/surCord/graphs/contributors)
-
-#### Support Server : https://discord.gg/7FQQTf8gGj
