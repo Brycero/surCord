@@ -6,7 +6,7 @@
 # ![screenshot](https://raw.githubusercontent.com/Brycero/surCord/dev/assets/Bryceropreview.png)
 
 ## Usage
-Vencord and BetterDiscord users can paste the raw file link `https://git.brycero.co/surCord/surCord.theme.css` into their themes settings. Alternatively, you can copy the contents of the `surCord.theme.css` file and paste it into your quick CSS settings.
+Vencord and BetterDiscord users can paste the raw file link `https://git.brycero.com/surCord/surCord.theme.css` into their themes settings. Alternatively, you can copy the contents of the `surCord.theme.css` file and paste it into your quick CSS settings.
 
 ## Notes
 * Intended for use in the Windows client through Vencord.
