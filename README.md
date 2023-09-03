@@ -1,10 +1,12 @@
 <h1 align="center">surCord</h1>
 <h3 align="center">Brycero fork</h3>
 
-<p align="center">A fork of surCord with a darker theme, orange accent color and includes Horizontal Server Switcher.</p>
+<p align="center">A fork of surCord with a darker theme, orange accent color and Horizontal Server Switcher.</p>
+
+# ![screenshot](https://git.brycero.com/surCord/assets/Bryceropreview.png)
 
 ## Usage
-Vencord and BetterDiscord users can paste the raw file link `https://git.brycero.co/surCord/surCord.theme.css` into their themes settings. Alternatively, you can copy the contents of the `surCord.theme.css` file and paste it into your quick CSS settings.
+Vencord and BetterDiscord users can paste the raw file link `https://git.brycero.com/surCord/surCord.theme.css` into their themes settings. Alternatively, you can copy the contents of the `surCord.theme.css` file and paste it into your quick CSS settings.
 
 ## Notes
 * Intended for use in the Windows client through Vencord.
@@ -13,8 +15,6 @@ Vencord and BetterDiscord users can paste the raw file link `https://git.brycero
 * No Vencord web support as of yet. I plan to update the `surCord.user.css` file with the necessary changes in the near future.
 
 <b>The original surCord readme is as follows:</b>
-
-# ![screenshot](https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/surCord/main/assets/Untitledpreview.png)
 
 ## How to use
 
