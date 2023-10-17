@@ -48,7 +48,7 @@
 }
 
 #app-mount .app-2CXKsg .base-2jDfDU {
-  top: var(--server-container) !important;
+  top: calc(var(--server-container) - 20px) !important;
   position: absolute !important;
   left: 0 !important;
   right: 0;
