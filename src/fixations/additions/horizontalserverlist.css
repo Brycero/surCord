@@ -35,7 +35,7 @@
 #app-mount .guilds-2JjMmN [class*=expandedFolderBackground] {
   width: var(--server-size);
   left: 50%;
-  translate: -75% 0; /* Brycero fix for folder bg */
+  translate: -50% 0;
 }
 #app-mount .guilds-2JjMmN .wrapper-z5ab_q {
   height: var(--server-size) !important;
@@ -48,7 +48,7 @@
 }
 
 #app-mount .app-2CXKsg .base-2jDfDU {
-  top: calc(var(--server-container) + 20px) !important;
+  top: var(--server-container) !important;
   position: absolute !important;
   left: 0 !important;
   right: 0;
