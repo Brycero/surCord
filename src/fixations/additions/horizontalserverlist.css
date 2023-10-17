@@ -72,7 +72,7 @@
   height: 100vw !important;
   top: var(--server-container);
   bottom: unset;
-  position: absolute !important;
+  position: fixed !important;
   margin-left: 70px;
   margin-top: 0px;
 }
