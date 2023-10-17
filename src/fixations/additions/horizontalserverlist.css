@@ -74,7 +74,7 @@
   bottom: unset;
   position: fixed !important;
   margin-left: 70px;
-  margin-top: -20px;
+  margin-top: 0px;
 }
 #app-mount .guilds-2JjMmN > [data-list-id=guildsnav] {
   margin-bottom: 0 !important;
