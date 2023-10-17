@@ -35,7 +35,7 @@
 #app-mount .guilds-2JjMmN [class*=expandedFolderBackground] {
   width: var(--server-size);
   left: 50%;
-  translate: -50% 0;
+  translate: -75% 0; /* Brycero fix for folder bg */
 }
 #app-mount .guilds-2JjMmN .wrapper-z5ab_q {
   height: var(--server-size) !important;
@@ -74,7 +74,7 @@
   bottom: unset;
   position: fixed !important;
   margin-left: 70px;
-  margin-top: 0px;
+  margin-top: -20px;
 }
 #app-mount .guilds-2JjMmN > [data-list-id=guildsnav] {
   margin-bottom: 0 !important;
@@ -272,6 +272,12 @@
   height: var(--server-size);
   width: 4px;
   left: -6px;
+}
+#app-mount .target-1eRTCg { /* Brycero fix for server reordering */
+  transform: rotateZ(90deg) translateX(10px) translateY(11px);
+}
+#app-mount .centerTarget-S6BLFQ { /* Brycero fix for server combining */
+  transform: rotateZ(-90deg) translateX(10px) translateY(11px);
 }
 #app-mount .guilds-2JjMmN.hidden-10MsGQ + .base-2jDfDU {
   top: 0 !important;
