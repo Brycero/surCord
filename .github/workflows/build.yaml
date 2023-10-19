@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - dev
+      - osx
 
 jobs:
   build_css:
