@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - dev
+      - bugfix
 
 jobs:
   build_css:
