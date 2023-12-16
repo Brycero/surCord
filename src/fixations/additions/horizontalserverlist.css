@@ -35,7 +35,7 @@
 #app-mount .guilds__2b93a [class*=expandedFolderBackground] {
   width: var(--server-size);
   left: 50%;
-  translate: -75% 0; /* Brycero fix for folder bg */
+  translate: -50% 0; /* Brycero fix for folder bg */
 }
 #app-mount .guilds__2b93a .wrapper__3670f {
   height: var(--server-size) !important;
@@ -272,10 +272,10 @@
   width: 4px;
   left: -6px;
 }
-#app-mount .target-1eRTCg { /* Brycero fix for server reordering */
+#app-mount .target__47b05 { /* Brycero fix for server reordering */
   transform: rotateZ(90deg) translateX(10px) translateY(11px);
 }
-#app-mount .centerTarget-S6BLFQ { /* Brycero fix for server combining */
+#app-mount .centerTarget_dffece { /* Brycero fix for server combining */
   transform: rotateZ(-90deg) translateX(10px) translateY(11px);
 }
 #app-mount .guilds__2b93a.hidden__7c832 + .base__3e6af {
