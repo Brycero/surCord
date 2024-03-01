@@ -78,7 +78,7 @@
 #app-mount .guilds__2b93a > [data-list-id=guildsnav] {
   margin-bottom: 0 !important;
 }
-#app-mount .guilds__2b93a .scrollerBase_dc3aa9 {
+#app-mount .guilds__2b93a .scrollerBase__2b744 {
   padding: var(--server-spacing) 0 !important;
   display: flex;
   flex-direction: var(--server-direction);
@@ -248,7 +248,7 @@
 #app-mount .guilds__2b93a [class*=listItem]:not([class*=listItemWrapper]) {
   width: var(--server-size);
   transform: rotate(90deg);
-  margin: 0 10px 10px;
+  margin: 0 10px;
   position: unset;
 }
 #app-mount .guilds__2b93a [class*=guildSeparator] {
