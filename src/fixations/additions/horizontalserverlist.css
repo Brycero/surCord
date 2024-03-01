@@ -68,7 +68,7 @@
   transform-origin: top left;
   transform: rotate(-90deg);
   height: 100vw !important;
-  top: var(--server-container);
+  top: calc(var(--server-container) - 30px);
   bottom: unset;
   position: absolute !important;
   margin-left: 70px;
