@@ -68,7 +68,7 @@
 #app-mount .guilds__2b93a {
   transform-origin: top left;
   transform: rotate(-90deg);
-  height: 100vw !important;
+  height: calc(100vw - 70px) !important;
   top: calc(var(--server-container) - 30px);
   bottom: unset;
   position: absolute !important;
